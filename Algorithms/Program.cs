@@ -21,6 +21,7 @@ Console.WriteLine(result2); // 4_942_070
 // Binary Search => O(log(n))
 //int FindCardLocationBinarySearch(int[] cards, int query)
 
+// todo: implementiere die gleiche funktionalität wie in FindCardLocation, aber mit Binary Search
 
 // Linear Search => O(n)
 int FindCardLocation(int[] cards, int query)
